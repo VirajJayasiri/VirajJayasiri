@@ -1,246 +1,256 @@
-<!-- ================= HERO BANNER ================= -->
-
 <p align="center">
-  <img src="./assets/coding-banner.gif" width="100%" alt="Coding Banner"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px" />
 </p>
 
-<!-- ================= ABOUT GIF ================= -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Viraj+Jayasiri+%F0%9F%91%8B;Computer+Science+Undergrad+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;AI+%2B+Backend+Engineer+%F0%9F%A4%96;Problem+Solver+%26+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="./assets/about_me.gif" width="120px" alt="About Me"/>
+  <img src="https://komarev.com/ghpvc/?username=VirajJayasiri&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IIT%20%7C%20UoW-Computer%20Science-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-SE Internships-brightgreen?style=for-the-badge" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line"/>
 
-<h1 align="center">Hi 👋, I'm Viraj Jayasiri</h1>
+## 🧑‍💻 About Me
 
-<h3 align="center">
-  Computer Science Undergraduate | Full-Stack Developer | AI & Backend Enthusiast
-</h3>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name: Viraj Jayasiri
+location: Kuliyapitiya, Sri Lanka
+education:
+  degree: BSc (Hons) Computer Science
+  institute: IIT (Affiliated - University of Westminster, UK)
+  year: 2nd Year Undergraduate (2025-2028)
+
+currently:
+  - Building AI-powered web apps
+  - Exploring Go & distributed systems
+  - Seeking 3rd Year Internship
+
+contact:
+  email: viraj.jayasiri.work@gmail.com
+  linkedin: Viraj Jayasiri
+
+achievements:
+  - 🏆 Hackathon Winner - 1st @ IIT, 4th @ UoW
+  - ☁️ Microsoft Azure AI Fundamentals (AI-900)
+  - 🐙 GitHub Actions Badge Holder
+  - 📜 Cambridge Linguaskill Certificate
+```
+
+</td>
+<td width="60%" align="center" valign="middle">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Tech Illustration" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Just a gif" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [NexAttend](https://nexattend.com/) - AI Attendance System
+> Real-time face recognition for automated student attendance marking via webcam
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [ConnectHub](https://github.com/VirajJayasiri/connecthub-springboot-react) - Chat & Video Platform
+> Full-stack real-time communication platform — chat, voice/video rooms, friend management
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ [DevBuddy](https://github.com/VirajJayasiri/devbuddy-java-cli-devops-automation-tool) - Java CLI DevOps Tool
+> Automates developer workflows — project init, README gen, environment checks & version management
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [FastAPI JWT Auth](https://github.com/VirajJayasiri/fastapi-jwt-authentication-with-media-upload-app) - Secure REST API
+> JWT-authenticated REST API with full CRUD, media upload & Streamlit testing interface
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio Website](https://github.com/VirajJayasiri/modern-portfolio-website-nextjs15-typescript-tailwind)
+> Modern responsive portfolio built with Next.js 15 + TypeScript + Tailwind
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐹 [GoLang Task API](https://github.com/VirajJayasiri/golang-todo-task-management-api)
+> Lightweight RESTful task management API in Go with full CRUD operations
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=2E86C1&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate+at+IIT;Full-Stack+Developer;React+%7C+Next.js+%7C+FastAPI+%7C+Spring+Boot;AI+Smart+Systems+Builder;Always+Learning+%26+Building" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VirajJayasiri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-# 👨‍💻 About Me
+**Frontend**
 
-I am a motivated **Computer Science undergraduate** at the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster, UK**. I enjoy building real-world software solutions using modern web technologies, backend systems, AI tools, and cloud-based development practices.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🎓 **BSc (Hons) Computer Science Undergraduate**
-- 🚀 Passionate about **Full-Stack Development, AI, Backend Engineering, and DevOps**
-- 🤖 Interested in **AI-based systems, automation tools, and real-time applications**
-- 💻 Currently improving my skills in **Next.js, FastAPI, Spring Boot, Docker, AWS, and AI/ML**
-- 🧠 Strong foundation in **OOP, databases, algorithms, and web technologies**
-- 📫 Reach me at **viraj.jayasiri.work@gmail.com**
-- ⚡ Fun fact: I love turning ideas into real working projects
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 
-# 🌐 Connect With Me
+**Databases & Cloud**
 
-<p align="center">
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<a href="mailto:viraj.jayasiri.work@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" width="45" alt="Email"/>
-</a>
-&nbsp;&nbsp;
+**AI / ML**
 
-<a href="https://www.linkedin.com/in/viraj-jayasiri" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="45" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-<a href="https://github.com/VirajJayasiri" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="45" width="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
+**Tools**
 
-<a href="https://nexattend.com/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="45" width="45" alt="Website"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50" alt="Python"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50" alt="Java"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" alt="TypeScript"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="50" height="50" alt="Go"/>
-</p>
-
-## 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50" alt="React"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="50" height="50" alt="Next.js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="50" height="50" alt="Tailwind CSS"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50" alt="CSS"/>
-</p>
-
-## ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50" height="50" alt="Node.js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="50" height="50" alt="Express.js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="50" height="50" alt="FastAPI"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="50" height="50" alt="Spring Boot"/>
-</p>
-
-## 🗄️ Databases & Tools
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="MongoDB"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="50" height="50" alt="PostgreSQL"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50" alt="Git"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" width="50" height="50" alt="AWS"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="50" height="50" alt="Figma"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50" height="50" alt="Maven"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 NexAttend — AI Smart Attendance System
-
-**AI-based attendance system using real-time face recognition.**
-
-- Developed automated student identification and attendance marking through webcam input.
-- Implemented face detection, embedding generation, similarity matching, and database integration.
-- Built for accurate and scalable attendance tracking.
-
-**Tech Stack:** `React.js` `Python` `FastAPI` `OpenCV` `MTCNN` `DeepFace` `MongoDB`
-
-🔗 [Visit Project](https://nexattend.com/)
-
----
-
-## 🧰 DevBuddy — Java CLI DevOps Automation Tool
-
-**A Java-based CLI tool that automates developer workflows.**
-
-- Automates project initialization, environment checks, README generation, and version management.
-- Designed with a modular command-driven architecture.
-- Includes file handling, environment validation, and Git integration.
-
-**Tech Stack:** `Java` `Picocli` `Maven` `JUnit`
-
-🔗 [View Repository](https://github.com/VirajJayasiri/devbuddy-java-cli-devops-automation-tool)
-
----
-
-## 💬 ConnectHub — Real-Time Chat & Voice/Video Platform
-
-**A full-stack real-time communication platform.**
-
-- Built authentication, user profiles, friend management, posts, topic rooms, and live messaging.
-- Implemented secure REST APIs, JWT authentication, WebSocket chat, and LiveKit integration.
-- Deployed backend services using Docker and AWS EC2.
-
-**Tech Stack:** `React.js` `Vite` `Tailwind CSS` `Java` `Spring Boot` `JWT` `MongoDB` `WebSocket` `STOMP` `LiveKit` `Docker` `AWS EC2`
-
-🔗 [View Repository](https://github.com/VirajJayasiri/connecthub-springboot-react.git)
-
----
-
-## 🔐 FastAPI JWT Auth API
-
-**Secure REST backend with JWT authentication and media upload.**
-
-- Built protected endpoints and CRUD operations using FastAPI.
-- Integrated database persistence and media upload handling.
-- Added Streamlit interface for API testing and interaction.
-
-**Tech Stack:** `FastAPI` `Python` `JWT` `SQL` `ImageKit` `Streamlit` `REST APIs`
-
-🔗 [View Repository](https://github.com/VirajJayasiri/fastapi-jwt-authentication-with-media-upload-app)
-
----
-
-# 🧪 Technical Mini Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **GoLang Task Management API** | RESTful task management API with CRUD operations | Go, HTTP Server, REST APIs |
-| **Developer Portfolio Website** | Modern responsive portfolio using Next.js and TypeScript | Next.js 15, TypeScript, Tailwind CSS |
-| **Airport Data Analysis System** | Python CSV analyzer with validation, reporting, and histograms | Python, CSV, File Handling |
-| **GRILLI Restaurant Website** | Responsive restaurant website with modern UI sections | HTML5, CSS3, JavaScript |
-
----
-
-# 🎓 Education & Certifications
-
-- **BSc (Hons) Computer Science Undergraduate**  
-  University of Westminster, UK — Delivered by IIT, Sri Lanka  
-  `2025 - 2028`
-
-- **Foundation Certificate in Computing**  
-  Informatics Institute of Technology, Sri Lanka  
-  `2025`
-
-- **G.C.E. Advanced Level — Physical Science**  
-  Maliyadeva College, Kurunegala  
-  Subjects: Combined Mathematics, Chemistry, Physics
-
-- **Cambridge Linguaskill English Proficiency Certificate**  
-  University of Cambridge, UK — Delivered by IIT Professional Development Unit
-
-- **Microsoft Azure AI Fundamentals AI-900 Course**
-
-- **GitHub Actions Badge Holder**
-
----
-
-# 🏆 Achievements
-
-- 🥇 **Problem-Solving International Hackathon 2026 — Team Lead**
-- 🏅 **1st Place at IIT**
-- 🏅 **4th Place at University of Westminster**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirajJayasiri&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajJayasiri&theme=tokyonight" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajJayasiri&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
 </p>
 
 ---
 
-# 🧠 Current Focus
-
-- Building real-world full-stack applications
-- Improving backend development with FastAPI and Spring Boot
-- Exploring AI-powered software systems
-- Learning cloud deployment with Docker and AWS
-- Strengthening clean code, testing, and DevOps practices
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer"/>
+  <a href="https://github.com/VirajJayasiri">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VirajJayasiri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VirajJayasiri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b><br>
-  <i>Let’s build something meaningful with technology.</i>
+  <img src="https://streak-stats.demolab.com/?user=VirajJayasiri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VirajJayasiri&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+| 🏅 Achievement | 📅 Year |
+|---|---|
+| 🥇 **Hackathon Winner** - 1st @ IIT · 4th @ UoW (International) | 2026 |
+| ☁️ **Microsoft Azure AI Fundamentals** (AI-900) | 2026 |
+| 🐙 **GitHub Actions Badge** | 2026 |
+| 📜 **Cambridge Linguaskill** English Proficiency (via IIT PDU) | 2025-2026 |
+| 🎓 **Foundation Certificate in Computing** - IIT | 2025 |
+
+---
+
+## 🎓 Education
+
+```
+🎓  BSc (Hons) Computer Science
+    University of Westminster, UK  |  Delivered by IIT Sri Lanka  |  2025–2028
+
+🏫  G.C.E. Advanced Level - Physical Science (Combined Maths, Chemistry, Physics)
+    Maliyadeva College, Kurunegala  |  2021/2022
+
+📜  Foundation Certificate in Computing - IIT  |  2025
+```
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:viraj.jayasiri.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/viraj-jayasiri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VirajJayasiri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+  <i>⚡ "Build things that matter - and ship them."</i>
 </p>
